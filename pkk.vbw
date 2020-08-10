@@ -1,0 +1,8 @@
+FrmNilai = 0, 0, 0, 0, C, 44, 44, 990, 488, C
+FrmPenilai = 0, 0, 0, 0, C, 88, 88, 1034, 532, C
+FrmTeguran = 0, 0, 0, 0, C, 176, 176, 1122, 620, C
+FrmPegawai = 44, 44, 1012, 423, C, 66, 66, 1012, 510, C
+Menu = 0, 0, 0, 0, C, 198, 198, 1144, 642, C
+FrmRekPerpegawai = 0, 0, 0, 0, C, 83, 115, 1029, 559, C
+FrmDataPribadi = 22, 22, 990, 401, C, 22, 22, 968, 466, C
+FrmRekPerpenilai = 0, 0, 0, 0, C, 154, 154, 1100, 598, C

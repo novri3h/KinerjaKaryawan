@@ -9,11 +9,20 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/KinerjaKaryawan/graphs/commit-activity)
 
 ## Features Kinerja Karyawan
+[Menu Data]
+- Pegawai
 
-- Input Data
-- Cari Data
-- Cetak Data
-- User
+[Menu F1PKP]
+- Penilai
+- Teguran
+- Nilai
+
+[Menu Laporan]
+- Laporan Data Pribadi Pegawai
+- Daftar Pegawai
+- Rekomendasi Perpegawai
+- Rekomendasi Perpenilai
+- Rekapitulasi Penilaian Pegawai
 
 ## Tech
 
@@ -47,7 +56,7 @@ Aplikasi ini dibangun dengan menggunakan:
 
 Install Visual Basic 6 dan Crystal Reports.
 
-<div align="justify">Jalankan Aplikasi.vbp untuk merubah Code</div>
+<div align="justify">Jalankan pkk.vbp untuk merubah Code atau klik pkk.exe menjalankan aplikasinya.</div>
 <br>
 Untuk Login Ke aplikasi Username dan password ---> admin
 <br>
